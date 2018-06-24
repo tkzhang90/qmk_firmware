@@ -6,7 +6,7 @@
   "height": 7,
   "layouts": {
     "LAYOUT": {
-      "key_count": 107,
+      "key_count": 106,
       "layout": [
         {
           "label": "Esc",
@@ -182,10 +182,7 @@
           "label": "Backspace",
           "x": 13,
           "y": 2
-        },
-        {
-          "x": 14,
-          "y": 2
+          "w": 2
         },
         {
           "label": "Num Lock",
@@ -504,19 +501,16 @@
           "w": 6.25
         },
         {
-          "label": "Alt",
+          "label": "Fn",
           "x": 10,
           "y": 6
+          "h": 1.5
         },
         {
-          "label": "Win",
-          "x": 11,
+          "label": "Ctrl",
+          "x": 11.5,
           "y": 6
-        },
-        {
-          "label": "Fn",
-          "x": 12,
-          "y": 6
+          "w": 1.5
         },
         {
           "label": "\\u2190",
